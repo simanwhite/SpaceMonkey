@@ -1,0 +1,4 @@
+Sitemap: http://simanwhite.com/sitemapindex.xml
+
+User-Agent: *
+Host: simanwhite.com
