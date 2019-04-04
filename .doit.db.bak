@@ -81,7 +81,7 @@
 'render_taxonomies:output\\rss.xml', (60416, 538)
 'copy_assets:output\\assets\\css\\highlight\\hopscotch.css', (61440, 323)
 'copy_assets:output\\assets\\fonts\\fontawesome-webfont.svg', (61952, 327)
-'sitemap:output\\sitemap.xml', (62464, 2061)
+'sitemap:output\\sitemap.xml', (62464, 2064)
 'copy_assets:output\\assets\\css\\highlight\\school-book.css', (65024, 326)
 'copy_assets:output\\assets\\css\\highlight\\solarized-light.css', (65536, 335)
 'copy_assets:output\\assets\\css\\highlight\\tomorrow-night-eighties.css', (66048, 350)
